@@ -30,7 +30,7 @@ Once open:
    The program will stay running in the background and after you close the actual emulator,
    allowing you to select another game or edit parameters etc.
 
-Once you have 
+Enjoy
 
 2025 Charlie Warren 
 CC BY-ND
