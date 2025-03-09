@@ -21,10 +21,6 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0
 
 Simply extract everything from charky.zip and place it where mupen64plus-ui-console.exe is located
 
-GO TO: https://github.com/Chuckles648/charky-mupen64plus-launching-utility/tree/additional-requirements
-
-Download the folder called '__data__' and place it in the same directory as charky.
-
 
 ------- USAGE -------
 
