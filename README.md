@@ -9,17 +9,17 @@ You MAY NOT modify, edit, or reupload this program without explicit permission.
 
 -------- INSTALL -------
 
-YOU NEED TO HAVE .NET RUNTIME 8.0.13 FOR THIS PROGRAM TO WORK
+YOU NEED TO HAVE .NET RUNTIME 9.0.2 FOR THIS PROGRAM TO WORK
 
 x64 Architecture
 
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.13-windows-x64-installer
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.2-windows-x64-installer
 
 x86 Architecture
 
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.13-windows-x86-installer
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.2-windows-x86-installer
 
-After that simply extract the executable, data folder, and dll to where mupen64plus-ui-console.exe is located
+Simply extract everything from charky.zip and place it where mupen64plus-ui-console.exe is located
 
 ------- USAGE -------
 
