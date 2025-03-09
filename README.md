@@ -23,7 +23,7 @@ Simply extract everything from charky.zip and place it where mupen64plus-ui-cons
 
 GO TO: https://github.com/Chuckles648/charky-mupen64plus-launching-utility/tree/additional-requirements
 
-Download the folder called "data" and place it in the same directory as charky.
+Download the folder called '__data__' and place it in the same directory as charky.
 
 
 ------- USAGE -------
