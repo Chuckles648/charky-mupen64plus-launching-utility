@@ -1,4 +1,4 @@
-# charky-mupen64plus-launching-utility
+# charkys-mupen64plus-launching-utility
 A simple winform program serving as a GUI for mupen64plus. 
 
 Current features are only support for mupen's parameters through the command line
